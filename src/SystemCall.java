@@ -1,0 +1,4 @@
+
+public enum SystemCall {
+	READDISK, WRITEDISK, INPUT, READMEM, WRITEMEM, PRINT;
+}
